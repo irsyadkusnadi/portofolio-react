@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portofolio-react/static/css/main.36fd7cba.css",
+    "main.js": "/portofolio-react/static/js/main.21d3dbc7.js",
+    "static/media/Poster Clustering.png": "/portofolio-react/static/media/Poster Clustering.0439ebdb67a589a9ce5f.png",
+    "static/media/Poster VOrgreens.png": "/portofolio-react/static/media/Poster VOrgreens.d26c640d17c8657323df.png",
+    "static/media/About me.png": "/portofolio-react/static/media/About me.825ce841d9e3c9f51b9d.png",
+    "static/media/CV Muhammad Irsyad Satriaji Kusnadi.pdf": "/portofolio-react/static/media/CV Muhammad Irsyad Satriaji Kusnadi.3546553b9911f37b4f6c.pdf",
+    "static/media/porto.png": "/portofolio-react/static/media/porto.5bd0b21873a7ad6bfb1f.png",
+    "index.html": "/portofolio-react/index.html",
+    "main.36fd7cba.css.map": "/portofolio-react/static/css/main.36fd7cba.css.map",
+    "main.21d3dbc7.js.map": "/portofolio-react/static/js/main.21d3dbc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36fd7cba.css",
+    "static/js/main.21d3dbc7.js"
+  ]
+}
