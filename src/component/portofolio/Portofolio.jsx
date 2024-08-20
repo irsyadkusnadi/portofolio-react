@@ -8,13 +8,13 @@ const data = [
     id: 1,
     image: Clustering,
     title: 'Paper Machine Learning Clustering',
-    link: 'https://www.notion.so/irsyadkusnadi/Website-VOrgreens-7abdc2eff9f24f36ae3e7b0ddb9a6949?pvs=4'
+    link: 'https://www.notion.so/irsyadkusnadi/Paper-Model-Machine-Learning-Untuk-Dampak-Banjir-di-Jakarta-Menggunakan-Pendekatan-Clustering-6bb127e717c64a068c26aa0f095be5fe?pvs=4'
   },
   {
     id: 1,
     image: VOrgreens,
     title: 'Interactive Website Project VOrgreens',
-    link: 'https://www.notion.so/irsyadkusnadi/Paper-Model-Machine-Learning-Untuk-Dampak-Banjir-di-Jakarta-Menggunakan-Pendekatan-Clustering-6bb127e717c64a068c26aa0f095be5fe?pvs=4'
+    link: 'https://www.notion.so/irsyadkusnadi/Website-VOrgreens-7abdc2eff9f24f36ae3e7b0ddb9a6949?pvs=4'
   }
 ]
 
