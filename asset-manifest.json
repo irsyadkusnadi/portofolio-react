@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portofolio-react/static/css/main.36fd7cba.css",
-    "main.js": "/portofolio-react/static/js/main.21d3dbc7.js",
+    "main.js": "/portofolio-react/static/js/main.4ce0008a.js",
     "static/media/Poster Clustering.png": "/portofolio-react/static/media/Poster Clustering.0439ebdb67a589a9ce5f.png",
     "static/media/Poster VOrgreens.png": "/portofolio-react/static/media/Poster VOrgreens.d26c640d17c8657323df.png",
     "static/media/About me.png": "/portofolio-react/static/media/About me.825ce841d9e3c9f51b9d.png",
@@ -9,10 +9,10 @@
     "static/media/porto.png": "/portofolio-react/static/media/porto.5bd0b21873a7ad6bfb1f.png",
     "index.html": "/portofolio-react/index.html",
     "main.36fd7cba.css.map": "/portofolio-react/static/css/main.36fd7cba.css.map",
-    "main.21d3dbc7.js.map": "/portofolio-react/static/js/main.21d3dbc7.js.map"
+    "main.4ce0008a.js.map": "/portofolio-react/static/js/main.4ce0008a.js.map"
   },
   "entrypoints": [
     "static/css/main.36fd7cba.css",
-    "static/js/main.21d3dbc7.js"
+    "static/js/main.4ce0008a.js"
   ]
 }
